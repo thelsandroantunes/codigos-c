@@ -15,7 +15,7 @@ int main()
     setlocale (LC_ALL, "portuguese");
     srand((unsigned) time(NULL));
 
-    int matriz[3][3],i,j,soma_par=0;
+    int i,j,soma_par=0;
     int N;
 
     do{
@@ -23,6 +23,7 @@ int main()
         scanf("%d",&N);
     }while(N < 2);
 
+    int matriz[N][N];
 
     for(i=0;i<N;i++)
         for(j=0;j<N;j++)
