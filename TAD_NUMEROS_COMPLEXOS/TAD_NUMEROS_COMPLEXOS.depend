@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1611359495 source:c:\users\thelsandro\documents\github\triangulo_de_floyd\tad_numeros_complexos\tad_num_complexos.c
+	<stdio.h>
+	"tad_num_complexos.h"
+
+1611359248 c:\users\thelsandro\documents\github\triangulo_de_floyd\tad_numeros_complexos\tad_num_complexos.h
+
+1611359410 source:c:\users\thelsandro\documents\github\triangulo_de_floyd\tad_numeros_complexos\tad_num_complexos_main.c
+	<stdio.h>
+	<locale.h>
+	"tad_num_complexos.h"
+
