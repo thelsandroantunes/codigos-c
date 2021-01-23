@@ -9,7 +9,7 @@ void setComplx(COMPLX *pnum, double really, double imagin)
 
 void imprime(COMPLX *num)
 {
-    printf("%.2lf + %.2lfi\n", num->really, num->imgry);
+    printf("(%.2lf) + (%.2lf)i\n", num->really, num->imgry);
 }
 
 COMPLX soma(COMPLX* num1, COMPLX* num2)

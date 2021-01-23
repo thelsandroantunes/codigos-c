@@ -31,6 +31,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="tad_num_complexos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tad_num_complexos.h" />
+		<Unit filename="tad_num_complexos_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
