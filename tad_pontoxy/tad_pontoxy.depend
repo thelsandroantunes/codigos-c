@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1611408581 source:c:\users\thelsandro\documents\github\triangulo_de_floyd\tad_pontoxy\tad_ponto_main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"tad_ponto.h"
+
+1611407578 c:\users\thelsandro\documents\github\triangulo_de_floyd\tad_pontoxy\tad_ponto.h
+
+1611407560 source:c:\users\thelsandro\documents\github\triangulo_de_floyd\tad_pontoxy\tad_ponto.c
+	<stdlib.h>
+	<math.h>
+	"tad_ponto.h"
+
