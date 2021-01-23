@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="tad_pontoxy" />
+		<Option title="dicio_string_encadeado" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/tad_pontoxy" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/dicio_string_encadeado" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/tad_pontoxy" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/dicio_string_encadeado" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -31,13 +31,6 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="tad_ponto.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="tad_ponto.h" />
-		<Unit filename="tad_ponto_main.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

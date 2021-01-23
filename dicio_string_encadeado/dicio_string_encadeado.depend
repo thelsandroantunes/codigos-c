@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1611417396 source:c:\users\thelsandro\documents\github\triangulo_de_floyd\dicio_string_encadeado\dicio_string_encadeado_main.c
+	<stdio.h>
+	<assert.h>
+	<locale.h>
+	"dicio_string_encadeado.h"
+
+1611417017 c:\users\thelsandro\documents\github\triangulo_de_floyd\dicio_string_encadeado\dicio_string_encadeado.h
+
+1611418150 source:c:\users\thelsandro\documents\github\triangulo_de_floyd\dicio_string_encadeado\dicio_string_encadeado.c
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	"dicio_string_encadeado.h"
+
