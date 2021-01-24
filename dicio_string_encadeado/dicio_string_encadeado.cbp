@@ -31,6 +31,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="dicio_string_encadeado.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dicio_string_encadeado.h" />
+		<Unit filename="dicio_string_encadeado_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
