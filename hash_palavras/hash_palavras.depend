@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611876210 source:c:\users\thelsandro\documents\github\triangulo_de_floyd\hash_palavras\arq02-hash_num_recor_palavras.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<locale.h>
+

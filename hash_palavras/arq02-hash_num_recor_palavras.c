@@ -132,18 +132,15 @@ static void imprime (Hash tab)
     free(vet);
 }
 
-int main(int argc, char** argv){
+int main(){
     setlocale (LC_ALL, "portuguese");
 
     FILE* fp;
     Hash tab;
     char s[NPAL];
-    if (argc != 2) {
-        printf("Arquivo de entrada nao fornecido.\n");
-        return 0;
-    }
+
     /* abre arquivo para leitura */
-    fp = fopen(argv[1],"rt");
+    fp = fopen("arq02-palavras.txt","r+");
     if (fp == NULL) {
         printf("Erro na abertura do arquivo.\n");
         return 0;
